@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5876,["876","static/chunks/876-39d152dde2adf29c.js","118","static/chunks/118-2cdaf94fa9e7d20b.js","974","static/chunks/app/page-59cd43e62be05b1a.js"],""]
+3:I[2868,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"py-24","children":[["$","p",null,{"className":"text-sm font-semibold uppercase tracking-[0.18em] text-muted","children":"404"}],["$","h2",null,{"className":"mt-4 font-display text-4xl font-semibold tracking-[-0.04em] text-ink","children":"요청한 페이지를 찾지 못했습니다."}],["$","p",null,{"className":"mt-4 text-lg text-muted","children":"글 경로가 바뀌었거나 아직 발행되지 않은 페이지일 수 있습니다."}],["$","$L2",null,{"href":"/","className":"mt-8 inline-flex rounded-full border border-line px-5 py-3 text-sm text-ink transition hover:bg-[#fafafa]","children":"홈으로 돌아가기"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wKfR8bhdEt7eDHdgbhH2g"}
+5:null

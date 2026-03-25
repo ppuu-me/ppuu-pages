@@ -1,0 +1,104 @@
+# =========================
+
+# Node / Package Managers
+
+# =========================
+
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+.yarn-cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# =========================
+
+# Next.js
+
+# =========================
+
+.next/
+out/
+.vercel/
+
+# =========================
+
+# Build / Output
+
+# =========================
+
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# =========================
+
+# Logs
+
+# =========================
+
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.local
+.env.development
+.env.development.local
+.env.production
+.env.production.local
+.env.test
+.env.test.local
+
+# =========================
+
+# macOS
+
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# Misc
+
+# =========================
+
+tmp/
+temp/
+.cache/
+
+# =========================
+
+# Optional (keep if needed)
+
+# =========================
+
+# public/uploads/
+
+# public/generated/
